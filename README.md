@@ -17,6 +17,7 @@ Starting from Attention, teaching the realization of VIT and other vision Transf
 - 3.Swin Transformer论文复现教学
 - 4.Focal Transformer论文复现教学
 - 5.MobileFormer论文复现教学
+  - <a href="https://www.bilibili.com/video/BV16Q4y1U7Rz?spm_id_from=333.999.0.0"> B站讲解视频 </a>
 - 6.一些分享
 
 # 感谢
